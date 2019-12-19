@@ -191,9 +191,12 @@ padding-bottom: 50px;
 .para{
 	margin-left: 20px;
   width: 95%;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 .para p{
+	font-size: 10px;
+}
+.para2 p{
 	font-size: 10px;
 }
 }
