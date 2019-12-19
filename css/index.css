@@ -2,14 +2,10 @@
   box-sizing: border-box;
 }
 body {
-
-  
-  margin: 0;
+ margin: 0;
   padding: 0;
   outline: 0;
   overflow-x: hidden;
-
-
 }
 .colorr{
 	background: rgb(244,240,179);
@@ -17,16 +13,12 @@ body {
     height:auto;
     padding-bottom: 10px;
 }
-
-
-
 .gallery {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   position: relative;
 }
-
 .gal{
 	width:30%;
 	height: auto;
@@ -106,7 +98,6 @@ body {
     height: 2px;
     margin-left: 4px;
 }
-
 .gallery3 {
   display: flex;
   flex-wrap: wrap;
@@ -158,16 +149,7 @@ body {
   height: 38px;
   margin-top: 30px;
 }
-
-
-
-
-
-
-
-
 @media only screen and (max-width: 500px) {
-
 	.gallery1 {
     display: flex;
     flex-wrap: wrap;
