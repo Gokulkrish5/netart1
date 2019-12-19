@@ -148,18 +148,6 @@ body {
   margin-top: 30px;
 }
 
-
-
-
-
-@media only screen and (max-width: 500px) {
-
-  .gallery1
-  {
-  padding-bottom: 100px;
-  }
-}
-
 /* Because there is no hover on a touch devide, we need to move the text to the bottom of the image and display it by default */
 
 @media only screen and (max-width: 1281px) {
