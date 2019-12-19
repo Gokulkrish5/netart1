@@ -171,7 +171,7 @@ body {
 }
 .gallery1
 {
-padding-bottom: 100px;
+padding-bottom: 20px;
 }
 .gallery1 .gal{
 
@@ -204,9 +204,8 @@ padding-bottom: 100px;
 }
 
 
-@media only screen and (max-width: 500px) {
-.gallery1
-{
-padding-bottom: 100px;
+@media only screen and (max-width: 500px)
+.gallery1 {
+    padding-bottom: 57px;
 }
 }
