@@ -199,6 +199,11 @@ padding-bottom: 50px;
 .para2 p{
 	font-size: 13px;
 }
+.gallery2 .gal {
+  margin-left: -35px;
+  width: 80%;
+  height: 340px;
+}
 }
 
 
